@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #0077B6;
+    padding: 10px 2%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo, .icon-header {
+    margin-top: 8px;
+    cursor: pointer;
+}
+
+.logo:hover, .icon-header:hover {
+    opacity: 0.7;
+}
+
+.info-header{
+    color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+}
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+}
+
+.content{
+    width: 100%;
+    background-color: rgb(245, 245, 245);
+    padding: 20px;
+}
+
+.titulo-secao{
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 4%;
+}
+
+.titulo-secao h2{
+    font-size: 100%;
+}
+
+.titulo-secao p{
+    font-size: 14px;
+}
+
+.titulo-secao i{
+    color: #1D2D44;
+}
+
+.separator{
+    width: 100%;
+    height: 1px;
+    background-color: #B4B5BA;
+}
+
+.box-info {
+    width: 50%; 
+    float: left;
+    box-sizing: border-box; 
+    padding: 0 100px; 
+    margin-top: 15px;
+}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.box-info-single{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    color: #ffffff;
+    width: 130%;
+    margin: 0 -84px;
+    padding: 20px;
+}
+
+.box-info-single i{
+    margin: 5px;
+    margin-left: 5px;
+    margin-right: 10px;
+    font-size: 28px;
+    align-items: right;
+}
+
+.container{
+    background-color: #f5f5f5;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    gap: 20px; 
+}
+
+.chart{
+    padding: 5.8rem;
+    border: 1px solid;
+    border-radius: 1rem;
+    background: #F5F5F5;
+    box-shadow: 0 0 16px rgba(250, 249, 249, 0.1);
+}
+
+canvas {
+    width: 800px; 
+    height: 300px; 
+}
+

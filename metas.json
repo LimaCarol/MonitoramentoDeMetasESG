@@ -1,0 +1,16 @@
+{
+    "consumoMensal": [
+        {"mes": "Janeiro", "consumoDiesel": 7582.4},
+        {"mes": "Fevereiro", "consumoDiesel": 7355.4},
+        {"mes": "Março", "consumoDiesel": 7583.4},
+        {"mes": "Abril", "consumoDiesel": 7470.4},
+        {"mes": "Maio", "consumoDiesel": 7583.4},
+        {"mes": "Junho", "consumoDiesel": 7470.4},
+        {"mes": "Julho", "consumoDiesel": 7583.4},
+        {"mes": "Agosto", "consumoDiesel": 7583.4},
+        {"mes": "Setembro", "consumoDiesel": 7470.4},
+        {"mes": "Outubro", "consumoDiesel": 7583.4},
+        {"mes": "Novembro", "consumoDiesel": 7470.4},
+        {"mes": "Dezembro", "consumoDiesel": 7580.4}
+    ]
+}

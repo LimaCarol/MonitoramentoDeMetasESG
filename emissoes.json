@@ -1,0 +1,18 @@
+{
+    "emissoesMensais":[
+        {"mes":"Janeiro","emissaoCO2":26800},
+        {"mes":"Fevereiro","emissaoCO2":29480},
+        {"mes":"Março","emissaoCO2":28140},
+        {"mes":"Abril","emissaoCO2":32160},
+        {"mes":"Maio","emissaoCO2":30820},
+        {"mes":"Junho","emissaoCO2":31624},
+        {"mes":"Julho","emissaoCO2":33500},
+        {"mes":"Agosto","emissaoCO2":34840},
+        {"mes":"Setembro","emissaoCO2":32696},
+        {"mes":"Outubro","emissaoCO2":30820},
+        {"mes":"Novembro","emissaoCO2":29480},
+        {"mes":"Dezembro","emissaoCO2":28140}
+    ]
+}
+
+
