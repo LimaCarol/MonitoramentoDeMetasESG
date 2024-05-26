@@ -21,3 +21,4 @@ Este projeto foi desenvolvido com o objetivo de medir o consumo de combustível 
 - [ANA VITÓRIA RODRIGUES (Anavitsr) - R011DD0](https://github.com/Anavitsr)
 - [GABRIEL DALCIN FRANÇA (Dalcinfranca) - G8599D0](https://github.com/Dalcinfranca)
 - [FABRÍCIO TELES DE ASSIS (TAfabricio) - R0050B5](https://github.com/TAfabricio)
+- [CAROLINE SANTOS DE LIMA (LimaCarol) - R0050C3](https://github.com/LimaCarol)
