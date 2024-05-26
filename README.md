@@ -13,7 +13,7 @@ Este projeto foi desenvolvido com o objetivo de medir o consumo de combustível 
 - HTML
 - CSS (com a biblioteca Poppins para estilos de fonte)
 - JavaScript (com a biblioteca Chart.js para criação de gráficos)
-- JSON para armazenamento e transferência de dados
+- JSON e JAVA para armazenamento e transferência de dados
 
 ## Contribuidores
 
